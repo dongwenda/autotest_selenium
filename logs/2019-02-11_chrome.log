@@ -1,0 +1,60 @@
+2019/02/11 17:49:05 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 17:49:05 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 17:49:05 - pytest - [INFO] - 执行case: test_01
+2019/02/11 17:49:06 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 17:49:06 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 17:49:06 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 17:50:35 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 17:50:35 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 17:50:35 - pytest - [INFO] - 执行case: test_01
+2019/02/11 17:50:35 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 17:50:40 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 17:50:40 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 17:50:40 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 17:52:27 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 17:52:27 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 17:52:27 - pytest - [INFO] - 执行case: test_01
+2019/02/11 17:52:28 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 17:52:33 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 17:52:33 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 17:52:33 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 17:54:41 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 17:54:41 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 17:54:41 - pytest - [INFO] - 执行case: test_01
+2019/02/11 17:54:42 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 17:54:47 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 17:54:47 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 17:54:47 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 18:05:37 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 18:05:37 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 18:05:37 - pytest - [INFO] - 执行case: test_01
+2019/02/11 18:05:38 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 18:05:38 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->kw
+2019/02/11 18:05:38 - pytest - [INFO] - 输入信息：selenium
+2019/02/11 18:05:38 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->su
+2019/02/11 18:05:38 - pytest - [INFO] - 点击元素
+2019/02/11 18:05:43 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 18:05:43 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 18:05:43 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 18:09:47 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 18:09:47 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 18:09:47 - pytest - [INFO] - 执行case: test_01
+2019/02/11 18:09:48 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 18:09:48 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->kw
+2019/02/11 18:09:48 - pytest - [INFO] - 输入信息：selenium
+2019/02/11 18:09:48 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->su
+2019/02/11 18:09:48 - pytest - [INFO] - 点击元素
+2019/02/11 18:09:53 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 18:09:53 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 18:09:53 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！
+2019/02/11 18:10:48 - pytest - [INFO] - 正在启动浏览器：chrome
+2019/02/11 18:10:48 - pytest - [INFO] - 开始执行module: cases.test_baidu
+2019/02/11 18:10:48 - pytest - [INFO] - 执行case: test_01
+2019/02/11 18:10:49 - pytest - [INFO] - 打开url：https://www.baidu.com/
+2019/02/11 18:10:49 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->kw
+2019/02/11 18:10:49 - pytest - [INFO] - 输入信息：selenium
+2019/02/11 18:10:49 - pytest - [INFO] - 定位元素信息：定位方式->id, value值->su
+2019/02/11 18:10:49 - pytest - [INFO] - 点击元素
+2019/02/11 18:10:54 - pytest - [INFO] - 结束执行case: test_01
+2019/02/11 18:10:54 - pytest - [INFO] - 结束执行module: cases.test_baidu
+2019/02/11 18:10:54 - pytest - [INFO] - 当全部用例执行完：teardown quit driver！

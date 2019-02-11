@@ -1,0 +1,12 @@
+---
+BaiduHomePage:
+    dec: 百度首页元素
+    locators:
+      -
+        name: 输入框
+        type: id
+        value: kw
+      -
+        name: 搜索按钮
+        type: id
+        value: su
